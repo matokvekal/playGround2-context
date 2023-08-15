@@ -1,0 +1,20 @@
+/* Header Component Styles */
+.Header {
+   min-height: 40px;
+   border: 2px solid red;
+   background-color: #fff;
+   padding: 10px 20px;
+   display: flex;
+   align-items: center;
+   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+   border-radius: 4px;
+ 
+   h1, h2, h3, p {
+     margin: 0;
+     color: #333;
+   }
+   span{
+    margin:10px;
+   }
+ }
+ 
